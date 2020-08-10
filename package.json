@@ -1,0 +1,32 @@
+{
+  "name": "shiori-plugin-noharumachi",
+  "friendlyName": "no-harumachi-clover",
+  "version": "1.0.0",
+  "description": "katakuna!shiori plugin that closes player's client if they play any Harumachi Clover map.",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-katakuna/shiori-plugin-noharumachi.git"
+  },
+  "keywords": [
+    "harumachi",
+    "clover",
+    "osu",
+    "katakuna",
+    "shiori",
+    "plugin",
+    "close",
+    "client",
+    "private",
+    "server"
+  ],
+  "author": "talnacialex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-katakuna/shiori-plugin-noharumachi/issues"
+  },
+  "homepage": "https://github.com/osu-katakuna/shiori-plugin-noharumachi#readme"
+}
