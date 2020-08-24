@@ -2,8 +2,9 @@
   "name": "shiori-plugin-noharumachi",
   "friendlyName": "no-harumachi-clover",
   "version": "1.0.0",
-  "description": "katakuna!shiori plugin that closes player's client if they play any Harumachi Clover map.",
+  "description": "katakuna!shiori plugin that closes the player's client if they play any Harumachi Clover map.",
   "main": "plugin.js",
+  "scope": "shiori",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
